@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-![이미지]([https://github.com/ddammo55/smart/issues/1#issue-1931165092](https://user-images.githubusercontent.com/18032434/273360665-fb53d688-74e8-4a46-95c2-a7c9970f39f1.png))
+![이미지](https://user-images.githubusercontent.com/18032434/273360665-fb53d688-74e8-4a46-95c2-a7c9970f39f1.png)
 
 https://github.com/ddammo55/smart/issues/1#issue-1931165092
 
