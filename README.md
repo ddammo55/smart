@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+![이미지](https://github.com/ddammo55/smart/issues/1#issue-1931165092)
+
 https://github.com/ddammo55/smart/issues/1#issue-1931165092
 
 First, run the development server:
